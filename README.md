@@ -1,4 +1,4 @@
-Add to .repo/local_manifests/hero2lte.xml:
+Add to .repo/local_manifests/s5neolte.xml:
 
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
