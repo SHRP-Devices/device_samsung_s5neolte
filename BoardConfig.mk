@@ -32,3 +32,4 @@ SHRP_AB := false
 SHRP_REC_TYPE := Normal
 SHRP_DEVICE_TYPE := A_Only
 SHRP_EXPRESS := true
+SHRP_OFFICIAL := true
